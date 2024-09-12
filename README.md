@@ -1,13 +1,5 @@
 # Mental Health Sentiment Analysis
 
-## Table of Contents
-* [Background](#background)
-* [Requirement](#requirement)
-* [Inspiration](#inspiration)
-* [Schema](#schema)
-* [Creator](#creator)
-
-## Background
 <img src="https://github.com/Bayunova28/Mental_Health_Sentiment_Analysis/blob/main/background.jpg" height="600" width="1100">
 <p align="justify">Mental health problems affect society as a whole, and not just a small, isolated segment. They are therefore a major challenge to global development. No group is immune to mental disorders,
 but the risk is higher among the poor, homeless, the unemployed, persons with low education, victims of violence, migrants and refugees, indigenous populations, children and adolescents, abused women 
